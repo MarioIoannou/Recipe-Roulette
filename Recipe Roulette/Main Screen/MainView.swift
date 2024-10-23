@@ -27,7 +27,7 @@ struct MainView: View {
                     Text("Spin the Wheel")
                         .font(.title)
                         .padding()
-                        .background(Color.orange)
+                        .background(Color.red)
                         .foregroundColor(.white)
                         .cornerRadius(10)
                 }
